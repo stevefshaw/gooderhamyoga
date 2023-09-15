@@ -22,7 +22,7 @@ li {
     font-size: 16px;
 }
 
-.image-contain {
-  object-fit: contain;
-  object-position: center;
+.email {
+	font-size: 16px;
+	margin-top: 20px;
 }
